@@ -1,0 +1,11 @@
+{
+  "name": "61xyv6--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-ui": "2021.2.616",
+    "vue": "3.2.6",
+    "@progress/kendo-grid-vue-wrapper": "2021.2.617",
+    "@progress/kendo-datasource-vue-wrapper": "2021.2.617"
+  }
+}
